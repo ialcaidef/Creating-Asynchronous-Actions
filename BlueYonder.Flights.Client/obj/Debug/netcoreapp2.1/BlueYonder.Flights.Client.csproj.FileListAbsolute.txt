@@ -1,0 +1,12 @@
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.deps.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.runtimeconfig.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.runtimeconfig.dev.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.pdb
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.csprojAssemblyReference.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.AssemblyInfoInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.AssemblyInfo.cs
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.csproj.CoreCompileInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.pdb
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.genruntimeconfig.cache
